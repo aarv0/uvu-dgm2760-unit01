@@ -1,0 +1,43 @@
+header {
+    color: white;
+    font-size: 18px;
+    max-width: 960px;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-left: 20px;
+    background-image:url("../images/inspector.jpg");
+    height: 200px;
+    background-color: beige;
+    background-position: right;
+    background-repeat:no-repeat;
+}
+header h1 {
+    color: darkgoldenrod;
+}
+header h2 {
+    color: darkgoldenrod;
+}
+main {
+    max-width: 960px;
+    margin: 0 auto;
+
+}
+main h1 {
+    color: darkgoldenrod;
+}
+main h2 {
+    color: goldenrod;
+}
+main ul li {
+    /*color: rgb(92,46,14);*/
+
+}
+footer {
+    max-width: 960px;
+    margin: 0 auto;
+    height: 50px;
+    padding-top: 2px;
+    text-align: center;
+    background-color: goldenrod;
+}
+
