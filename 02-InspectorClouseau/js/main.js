@@ -16,11 +16,12 @@ let urlText = document.getElementById("urlText").innerHTML = "The page URL is: "
 
 
 
+
 }
 reDisplay()
 
 
-/*function url() {
+function url() {
 var x = document.querySelector(`#myDoc`).innerText = "The document title is: " + document.title
 }
 
