@@ -9,7 +9,7 @@ let offset = `Window offset is ${window.screenX} from the left edge and ${window
 let myWindow = document.querySelector(`#myWindow`).innerText = `${windowSizes} \n ${offset}`
 
 
-
+let userName = prompt("What is your name?")
 
 
 let urlText = document.getElementById("urlText").innerHTML = "The page URL is: " + window.location.href;
