@@ -12,10 +12,10 @@ header {
     background-repeat:no-repeat;
 }
 header h1 {
-    color: darkgoldenrod;
+    color: white;
 }
 header h2 {
-    color: darkgoldenrod;
+    color: white;
 }
 main {
     max-width: 960px;
