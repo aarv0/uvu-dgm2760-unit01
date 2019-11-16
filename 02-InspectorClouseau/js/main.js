@@ -1,5 +1,5 @@
-document.querySelector(`header > h1`).innerText = "Inspector Clouseau"
-document.querySelector(`header > h2`).innerText = "This IZ Chief Inspector Clouseau speaking on the pheaun"
+document.querySelector('header > h1').innerText = "Inspector Clouseau"
+document.querySelector('header > h2').innerText = "This IZ Chief Inspector Clouseau speaking on the pheaun"
 
 function reDisplay() {
 let windowSizes = `Window size is ${window.innerWidth} pixels wide by ${window.innerHeight} pixels tall.`
